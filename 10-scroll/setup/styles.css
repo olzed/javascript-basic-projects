@@ -60,7 +60,7 @@ Global Styles
 ===============
 */
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 *,
 ::after,
@@ -241,7 +241,7 @@ nav {
   transition: var(--transition);
 }
 .show-links {
-  height: 200px;
+  height: 12.5rem;
 }
 .links a {
   background: var(--clr-white);
